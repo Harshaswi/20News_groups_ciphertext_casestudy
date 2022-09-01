@@ -15,7 +15,7 @@ classification of ciphertexts are belongs to respective Newsgroups (classes)
 20ciphers_Newsgroups consists of ciphertexts
 
 train_dataset consists of :
-Ciphertext : An encrypted text of a readable text
+Ciphertext : An encrypted text of a readable text \n
 ID : A unique ID for each ciphertext
 Target : 20 news groups are present, each ciphertext are belongs to one of the news groups
 Test_dataset consists of :
